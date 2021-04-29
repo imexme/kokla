@@ -40,7 +40,6 @@ class App extends React.Component {
           <Route path='/shop' component={ShopPage} />
           <Route path='/signin' component={SignInAndSignUpPage} />
           <Route path='/teoritest' component={TeoriTest} />
-          {/* <Route path='/teoritest' component={TeoriTest} /> */}
 
         </Switch>
       </div>
