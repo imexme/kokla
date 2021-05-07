@@ -1,7 +1,7 @@
 {
   "name": "complete-react-course",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "firebase": "^8.4.2",
     "node-sass": "^4.11.0",
